@@ -4,6 +4,7 @@ Sudha's Kitchen is a responsive restaurant frontend web application developed us
 🎯 **Project Objectives**
 
 Build a responsive restaurant website using React.js.
+
 Display restaurant information, food items, prices, and descriptions.
 Implement navigation between multiple pages using React Router.
 Manage application state using React Hooks, Context API, and Redux Toolkit.
