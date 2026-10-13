@@ -17,6 +17,7 @@ Demonstrate CRUD operations and API data fetching.
 
 Create user-friendly reservation and contact forms.
 
+
 ✨ **Features**
 Home Page: Restaurant introduction and featured dishes.
 
@@ -42,7 +43,9 @@ Menu Management: Add, edit, and delete menu items.
 
 Responsive Design: Supports desktop, tablet, and mobile screens.
 
+
 🛠️ **Technologies Used**
+
 React.js
 
 JavaScript (ES6+)
